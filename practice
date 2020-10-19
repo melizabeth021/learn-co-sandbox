@@ -1,0 +1,6 @@
+def say_hello_x_times(x)
+  x.times do
+        puts "hello world"
+      end
+      end
+say_hello_x_times
